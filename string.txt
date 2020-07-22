@@ -1,1 +1,1 @@
-Code goes here
+Hello {name}. Nice to meet you. Here is that math: {var1*var2}
